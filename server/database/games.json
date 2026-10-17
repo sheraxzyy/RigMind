@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "cyberpunk-2077",
+    "steamAppId": 1091500,
+    "title": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077",
+    "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED"
+    ],
+    "releaseDate": "9 Dec, 2020",
+    "genres": [
+      "RPG"
+    ],
+    "genre": "RPG",
+    "tier": "indie-accessible",
+    "platforms": [
+      "Windows PC",
+      "macOS"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/1091500/",
+        "official": true
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": false,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "64-bit Windows 10",
+      "cpu": "Core i7-6700 or Ryzen 5 1600",
+      "ram": "12 GB RAM",
+      "ramGb": 12,
+      "gpu": "GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "70 GB available space",
+      "storageGb": 70,
+      "notes": "SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.",
+      "storageType": "SSD Required"
+    },
+    "recommended": {
+      "os": "64-bit Windows 10",
+      "cpu": "Core i7-12700 or Ryzen 7 7800X3D",
+      "ram": "16 GB RAM",
+      "ramGb": 16,
+      "gpu": "GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770",
+      "directX": "Version 12",
+      "storage": "70 GB available space",
+      "storageGb": 70,
+      "notes": "SSD required.",
+      "storageType": "SSD Required"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/1091500/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T14:15:47.525Z",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1784714077",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1784714077",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg?t=1784714077",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.600x338.jpg?t=1784714077"
+    ],
+    "requirementsFetchedAt": "2026-10-17T14:15:17.424Z"
+  },
+  {
+    "id": "black-myth-wukong",
+    "steamAppId": 2358720,
+    "title": "Black Myth: Wukong",
+    "slug": "black-myth-wukong",
+    "description": "Chinese mythology action RPG pushing cutting-edge Unreal Engine 5 virtualized geometry (Nanite), Lumen indirect lighting, and complex particle simulation.",
+    "developers": [
+      "Game Science"
+    ],
+    "publishers": [
+      "Game Science"
+    ],
+    "releaseDate": "2024-08-20",
+    "genres": [
+      "Action RPG",
+      "Soulslike"
+    ],
+    "genre": "Action RPG",
+    "tier": "heavy-aaa",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/2358720/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/2358720/"
+      },
+      {
+        "name": "Epic Games",
+        "url": "https://store.epicgames.com/en-US/p/black-myth-wukong-87a72b"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": false,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Core i5-6600 or AMD Ryzen 5 1600",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "GeForce GTX 1060 6GB or Radeon RX 580 8GB",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "130 GB available space",
+      "storageGb": 130,
+      "storageType": "SSD Required",
+      "target": "1080p @ 30 FPS, Low Preset with Upscaling"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Core i7-9700 or AMD Ryzen 5 5500",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "GeForce RTX 2060 6GB or Radeon RX 5700 XT 8GB or Arc A750 8GB",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "130 GB available space",
+      "storageGb": 130,
+      "storageType": "Fast SSD Required",
+      "target": "1080p @ 60 FPS, Medium Preset"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Game Science Official System Specification Release",
+    "sourceUrl": "https://store.steampowered.com/app/2358720/",
+    "lastVerified": "2024-08-15",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "counter-strike-2",
+    "steamAppId": 730,
+    "title": "Counter-Strike 2",
+    "slug": "counter-strike-2",
+    "description": "Valve premier tactical shooter rebuilt on Source 2 with dynamic volumetric smokes, physics-based particles, and sub-tick server architecture.",
+    "developers": [
+      "Valve Corporation"
+    ],
+    "publishers": [
+      "Valve Corporation"
+    ],
+    "releaseDate": "2023-09-27",
+    "genres": [
+      "Tactical FPS",
+      "Esports"
+    ],
+    "genre": "Tactical FPS",
+    "tier": "esports-competitive",
+    "platforms": [
+      "Windows PC",
+      "Linux / SteamOS"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/730/"
+      }
+    ],
+    "isFreeToPlay": true,
+    "isMultiplayer": true,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "4 hardware CPU threads - Intel Core i5 750 or higher",
+      "ram": "8 GB",
+      "ramGb": 8,
+      "gpu": "Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0",
+      "vram": "1 GB",
+      "vramGb": 1,
+      "directX": "Version 11",
+      "storage": "85 GB available space",
+      "storageGb": 85,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 60 FPS, Low Preset"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i5-12400F or AMD Ryzen 5 5600",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 6600 8GB",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "85 GB available space",
+      "storageGb": 85,
+      "storageType": "Fast SSD",
+      "target": "1080p @ 144+ FPS Competitive"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Valve Official Steam Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/730/",
+    "lastVerified": "2024-02-10",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "baldurs-gate-3",
+    "steamAppId": 1086940,
+    "title": "Baldur's Gate 3",
+    "slug": "baldurs-gate-3",
+    "description": "Acclaimed rich party-based roleplaying game set in the Dungeons & Dragons universe with complex companion AI and dense Act 3 city simulation.",
+    "developers": [
+      "Larian Studios"
+    ],
+    "publishers": [
+      "Larian Studios"
+    ],
+    "releaseDate": "2023-08-03",
+    "genres": [
+      "CRPG",
+      "Turn-Based Strategy"
+    ],
+    "genre": "CRPG",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC",
+      "macOS"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/1086940/"
+      },
+      {
+        "name": "GOG",
+        "url": "https://www.gog.com/en/game/baldurs_gate_iii"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": true,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-4690 or AMD FX 8350",
+      "ram": "8 GB",
+      "ramGb": 8,
+      "gpu": "NVIDIA GeForce GTX 970 4GB or AMD Radeon RX 480 4GB",
+      "vram": "4 GB",
+      "vramGb": 4,
+      "directX": "Version 11",
+      "storage": "150 GB available space",
+      "storageGb": 150,
+      "storageType": "SSD Required",
+      "target": "1080p @ 30 FPS, Low Preset"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i7-8700K or AMD Ryzen 5 3600",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce RTX 2060 SUPER 8GB or AMD Radeon RX 5700 XT 8GB",
+      "vram": "8 GB",
+      "vramGb": 8,
+      "directX": "Version 11",
+      "storage": "150 GB available space",
+      "storageGb": 150,
+      "storageType": "Fast SSD Required",
+      "target": "1080p @ 60 FPS, High Preset"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Larian Studios Official Specification",
+    "sourceUrl": "https://store.steampowered.com/app/1086940/",
+    "lastVerified": "2023-10-01",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "elden-ring",
+    "steamAppId": 1245620,
+    "title": "Elden Ring: Shadow of the Erdtree",
+    "slug": "elden-ring",
+    "description": "FromSoftware landmark action RPG fantasy masterpiece in the Lands Between, designed in collaboration with George R. R. Martin.",
+    "developers": [
+      "FromSoftware Inc."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ],
+    "releaseDate": "2024-06-21",
+    "genres": [
+      "Action RPG",
+      "Open-World"
+    ],
+    "genre": "Action RPG",
+    "tier": "heavy-aaa",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/1245620/"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": true,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-8400 or AMD Ryzen 3 3300X",
+      "ram": "12 GB",
+      "ramGb": 12,
+      "gpu": "NVIDIA GeForce GTX 1060 3GB or AMD Radeon RX 580 4GB",
+      "vram": "3 GB",
+      "vramGb": 3,
+      "directX": "Version 12",
+      "storage": "60 GB available space",
+      "storageGb": 60,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS, Medium Preset"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i7-8700K or AMD Ryzen 5 3600X",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce GTX 1070 8GB or AMD Radeon RX VEGA 56 8GB",
+      "vram": "8 GB",
+      "vramGb": 8,
+      "directX": "Version 12",
+      "storage": "60 GB available space",
+      "storageGb": 60,
+      "storageType": "Fast SSD",
+      "target": "1080p @ 60 FPS, High Preset"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "FromSoftware / Bandai Namco Official System Specifications",
+    "sourceUrl": "https://store.steampowered.com/app/1245620/",
+    "lastVerified": "2024-06-15",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "hades-2",
+    "steamAppId": 1145350,
+    "title": "Hades II",
+    "slug": "hades-2",
+    "description": "Battle beyond the Underworld using dark sorcery as Melinoë, the Princess of the Underworld, in Supergiant critically acclaimed rogue-like dungeon crawler.",
+    "developers": [
+      "Supergiant Games"
+    ],
+    "publishers": [
+      "Supergiant Games"
+    ],
+    "releaseDate": "2024-05-06",
+    "genres": [
+      "Roguelike",
+      "Action",
+      "Indie"
+    ],
+    "genre": "Roguelike",
+    "tier": "indie-accessible",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/1145350/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/1145350/"
+      },
+      {
+        "name": "Epic Games",
+        "url": "https://store.epicgames.com/en-US/p/hades-ii-4f6291"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": false,
+    "isEarlyAccess": true,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Dual Core 2.4 GHz",
+      "ram": "8 GB",
+      "ramGb": 8,
+      "gpu": "GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 12",
+      "storage": "10 GB available space",
+      "storageGb": 10,
+      "storageType": "HDD / SSD",
+      "target": "1080p @ 60 FPS, Native"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Quad Core 2.4 GHz",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "GeForce RTX 2060, Radeon RX 5600 XT, or Intel Arc A580",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "10 GB available space",
+      "storageGb": 10,
+      "storageType": "Fast SSD",
+      "target": "1440p / 4K @ 144Hz"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Supergiant Games Early Access Documentation",
+    "sourceUrl": "https://store.steampowered.com/app/1145350/",
+    "lastVerified": "2024-05-10",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "half-life-2",
+    "steamAppId": 220,
+    "title": "Half-Life 2 (20th Anniversary Edition)",
+    "slug": "half-life-2",
+    "description": "Iconic classic first-person shooter set in City 17, featuring groundbreaking Havok physics, the Gravity Gun, and timeless environmental storytelling.",
+    "developers": [
+      "Valve Corporation"
+    ],
+    "publishers": [
+      "Valve Corporation"
+    ],
+    "releaseDate": "2004-11-16",
+    "genres": [
+      "Classic FPS",
+      "Sci-Fi"
+    ],
+    "genre": "Classic FPS",
+    "tier": "retro-classic",
+    "platforms": [
+      "Windows PC",
+      "macOS",
+      "Linux / SteamOS"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/220/"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": false,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 7 / 8 / 10 / 11",
+      "cpu": "1.7 Ghz Processor or better",
+      "ram": "512 MB",
+      "ramGb": 1,
+      "gpu": "DirectX 8.1 level Graphics Card (requires support for SSE)",
+      "vram": "128 MB",
+      "vramGb": 1,
+      "directX": "Version 8.1",
+      "storage": "6.5 GB available space",
+      "storageGb": 7,
+      "storageType": "Any Storage",
+      "target": "1080p @ 60+ FPS on any modern PC"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Pentium 4 processor (3.0GHz, or better)",
+      "ram": "1 GB",
+      "ramGb": 1,
+      "gpu": "DirectX 9 level Graphics Card",
+      "vram": "512 MB",
+      "vramGb": 1,
+      "directX": "Version 9.0c",
+      "storage": "6.5 GB available space",
+      "storageGb": 7,
+      "storageType": "SSD Recommended",
+      "target": "4K @ 240Hz"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Valve Anniversary Update Specification",
+    "sourceUrl": "https://store.steampowered.com/app/220/",
+    "lastVerified": "2024-11-16",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "valorant",
+    "steamAppId": null,
+    "title": "Valorant",
+    "slug": "valorant",
+    "description": "Character-based 5v5 tactical shooter from Riot Games engineered for precise gunplay, high server tickrates, and exceptional scalability on laptops and esports PCs.",
+    "developers": [
+      "Riot Games"
+    ],
+    "publishers": [
+      "Riot Games"
+    ],
+    "releaseDate": "2020-06-02",
+    "genres": [
+      "Tactical FPS",
+      "Esports"
+    ],
+    "genre": "Tactical FPS",
+    "tier": "esports-light",
+    "platforms": [
+      "Windows PC (Riot Client)"
+    ],
+    "coverImage": "https://images.contentstack.io/v3/assets/blt370612131b6e0eb6/blt8ef6661a340b332b/5eb9b9875e53303867ffc78a/valorant_open_graph_image.jpg",
+    "storeLinks": [
+      {
+        "name": "Riot Games Official",
+        "url": "https://playvalorant.com/"
+      },
+      {
+        "name": "Epic Games",
+        "url": "https://store.epicgames.com/en-US/p/valorant"
+      }
+    ],
+    "isFreeToPlay": true,
+    "isMultiplayer": true,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core 2 Duo E8400 or AMD Athlon 200GE",
+      "ram": "4 GB",
+      "ramGb": 4,
+      "gpu": "Intel HD 4000 or AMD Radeon R5 200",
+      "vram": "1 GB",
+      "vramGb": 1,
+      "directX": "Version 11",
+      "storage": "35 GB available space",
+      "storageGb": 35,
+      "storageType": "HDD / SSD",
+      "target": "720p @ 30+ FPS, Low Preset"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i3-4150 or AMD Ryzen 3 1200",
+      "ram": "8 GB",
+      "ramGb": 8,
+      "gpu": "NVIDIA GeForce GT 730 or AMD Radeon R7 240",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 11",
+      "storage": "35 GB available space",
+      "storageGb": 35,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 60+ FPS, Standard Preset"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Riot Games Official Technical Specs",
+    "sourceUrl": "https://support-valorant.riotgames.com/hc/en-us/articles/360044136134-Minimum-Recommended-PC-Specs",
+    "lastVerified": "2024-04-18",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "forza-horizon-5",
+    "steamAppId": 1551360,
+    "title": "Forza Horizon 5",
+    "slug": "forza-horizon-5",
+    "description": "Vibrant and ever-evolving open-world driving experience in Mexico featuring hundreds of world-class cars and highly optimized PC engine technology.",
+    "developers": [
+      "Playground Games"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "releaseDate": "2021-11-09",
+    "genres": [
+      "Racing",
+      "Open-World Arcade"
+    ],
+    "genre": "Racing",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC (Steam / PC Game Pass / Microsoft Store)"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/1551360/"
+      },
+      {
+        "name": "Xbox / PC Game Pass",
+        "url": "https://www.xbox.com/en-US/games/forza-horizon-5"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": true,
+    "isEarlyAccess": false,
+    "minimum": {
+      "os": "Windows 10 version 15063.0 or higher",
+      "cpu": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+      "ram": "8 GB",
+      "ramGb": 8,
+      "gpu": "NVidia GTX 970 OR AMD RX 470",
+      "vram": "4 GB",
+      "vramGb": 4,
+      "directX": "Version 12",
+      "storage": "110 GB available space",
+      "storageGb": 110,
+      "storageType": "SSD Strongly Recommended",
+      "target": "1080p @ 30 FPS, Low Preset"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i5-8400 or AMD Ryzen 5 1500X",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "NVidia GTX 1070 OR AMD RX 590",
+      "vram": "8 GB",
+      "vramGb": 8,
+      "directX": "Version 12",
+      "storage": "110 GB available space",
+      "storageGb": 110,
+      "storageType": "Fast SSD Required",
+      "target": "1080p @ 60 FPS, High Preset"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Playground Games / Microsoft Store Technical Guide",
+    "sourceUrl": "https://store.steampowered.com/app/1551360/",
+    "lastVerified": "2023-11-01",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "manor-lords",
+    "steamAppId": 1363080,
+    "title": "Manor Lords",
+    "slug": "manor-lords",
+    "description": "Medieval city builder featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations by Slavic Magic.",
+    "developers": [
+      "Slavic Magic"
+    ],
+    "publishers": [
+      "Hooded Horse"
+    ],
+    "releaseDate": "2024-04-26",
+    "genres": [
+      "Medieval Strategy",
+      "City Builder"
+    ],
+    "genre": "City Builder",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC (Steam / GOG / PC Game Pass)"
+    ],
+    "coverImage": "https://cdn.akamai.steamstatic.com/steam/apps/1363080/header.jpg",
+    "storeLinks": [
+      {
+        "name": "Steam",
+        "url": "https://store.steampowered.com/app/1363080/"
+      },
+      {
+        "name": "GOG",
+        "url": "https://www.gog.com/en/game/manor_lords"
+      }
+    ],
+    "isFreeToPlay": false,
+    "isMultiplayer": false,
+    "isEarlyAccess": true,
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-4670 (quad-core) or AMD FX-Series FX-4350",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce GTX 1050 (2 GB) or AMD Radeon RX-460 (4 GB)",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 12",
+      "storage": "15 GB available space",
+      "storageGb": 15,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i5-7600 (quad-core) or AMD Ryzen 3 2200G",
+      "ram": "16 GB",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8 GB)",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "15 GB available space",
+      "storageGb": 15,
+      "storageType": "Fast SSD",
+      "target": "1080p @ 60 FPS"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Slavic Magic / Hooded Horse Steam Store Documentation",
+    "sourceUrl": "https://store.steampowered.com/app/1363080/",
+    "lastVerified": "2024-05-01",
+    "lastSynchronized": "2026-10-17T10:43:51.151Z"
+  },
+  {
+    "id": "steam-292030",
+    "steamAppId": 292030,
+    "title": "The Witcher 3: Wild Hunt — Remastered",
+    "slug": "the-witcher-3-wild-hunt-remastered",
+    "description": "The Witcher 3: Wild Hunt — Remastered modernizes the acclaimed role-playing game with a range of upgrades and enhancements. Become monster slayer for hire Geralt of Rivia and journey across a dark fantasy open world in an epic quest to find your adopted daughter Ciri.",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED"
+    ],
+    "releaseDate": "18 May, 2015",
+    "genres": [
+      "RPG"
+    ],
+    "genre": "RPG",
+    "tier": "indie-accessible",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790845156",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.600x338.jpg?t=1790845156",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.600x338.jpg?t=1790845156",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.600x338.jpg?t=1790845156",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.600x338.jpg?t=1790845156"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/292030/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "64-bit Windows 11",
+      "cpu": "Core i5-8400 / Ryzen 5 2600",
+      "ram": "12 GB RAM",
+      "ramGb": 12,
+      "gpu": "GeForce GTX 1660 / Radeon RX 5500 XT 8GB / Arc A580",
+      "vram": "8 GB",
+      "vramGb": 8,
+      "directX": "Version 11 or 12",
+      "storage": "60 SSD GB available space",
+      "storageGb": 50,
+      "storageType": "SSD Required",
+      "target": "1080p @ 30 FPS",
+      "notes": "VRAM 6 GB"
+    },
+    "recommended": {
+      "os": "64-bit Windows 11",
+      "cpu": "Intel Core i7 8700K / AMD Ryzen 5 3600X",
+      "ram": "16 GB RAM",
+      "ramGb": 16,
+      "gpu": "RTX 2060 Super / AMD Radeon RX 6600 XT / Intel Arc B580",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 11 or 12",
+      "storage": "60 SSD GB available space",
+      "storageGb": 50,
+      "storageType": "SSD Required",
+      "target": "1080p @ 60 FPS",
+      "notes": "VRAM 8 GB"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/292030/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T10:44:52.079Z"
+  },
+  {
+    "id": "steam-3240220",
+    "steamAppId": 3240220,
+    "title": "Grand Theft Auto V Enhanced",
+    "slug": "grand-theft-auto-v-enhanced",
+    "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+    "developers": [
+      "Rockstar North"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "releaseDate": "4 Mar, 2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing"
+    ],
+    "genre": "Action",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg?t=1781187782",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg?t=1781187782",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.600x338.jpg?t=1781187782"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/3240220/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10 (latest service pack)",
+      "cpu": "Intel® Core™ i7-4770 | AMD FX™-9590",
+      "ram": "8 GB RAM",
+      "ramGb": 8,
+      "gpu": "NVIDIA GeForce® GTX 1630 (4GB VRAM) | AMD Radeon™ RX 6400 (4GB VRAM)",
+      "vram": "4 GB",
+      "vramGb": 4,
+      "storage": "105 GB available space",
+      "storageGb": 105,
+      "notes": "SSD Required  |  Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and  for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.  Other requirements: Installation and online play requires log-in to Rockstar Games account (minimum age varies) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Launcher, DirectX, Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication and verification software that recognizes certain hardware attributes for entitlement, digital rights management, anti-cheat and moderation software, system, and other support purposes.  *Compatible PC and/or device required. 3D Audio via Windows Spatial Sound compatible audio systems",
+      "storageType": "SSD Required"
+    },
+    "recommended": {
+      "os": "Windows 11",
+      "cpu": "Intel® Core™ i5-9600K | AMD Ryzen™ 5 3600",
+      "ram": "16 GB RAM",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce® RTX 3060 (8GB VRAM) | AMD Radeon™ RX 6600XT (8GB VRAM)",
+      "vram": "8 GB",
+      "vramGb": 8,
+      "storage": "105 GB available space",
+      "storageGb": 105,
+      "notes": "SSD with DirectStorage-compatibility",
+      "storageType": "SSD Required"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/3240220/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T14:18:20.358Z",
+    "requirementsFetchedAt": "2026-10-17T14:17:58.072Z"
+  },
+  {
+    "id": "steam-2551020",
+    "steamAppId": 2551020,
+    "title": "One-armed robber",
+    "slug": "one-armed-robber",
+    "description": "One-armed robber is a chaotic first-person heist game that centers around a uniquely challenging premise. Players take the role of a determined robber equipped with only one arm, tasked with pulling off daring heists on banks, shops, and various establishments.",
+    "developers": [
+      "Duhndal"
+    ],
+    "publishers": [
+      "Duhndal"
+    ],
+    "releaseDate": "15 Dec, 2023",
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "genre": "Action",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/79107859fdd0b2179fb1477e70a32e2fa156d5d8/header_alt_assets_0.jpg?t=1790240946",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/ss_c1ab80e793c47e03385c926d6883316fdbd0b751.600x338.jpg?t=1790240946",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/ss_5bfa08178624f73120d0430bf2a9f9e7544ab879.600x338.jpg?t=1790240946",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/ss_23c3c05cc1bf79635e0f432e814539e682b6a092.600x338.jpg?t=1790240946",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551020/ss_9a0c305b352cc8c9d81c498e5b65534b202fb4ef.600x338.jpg?t=1790240946"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/2551020/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel® Core™ i5-4590",
+      "ram": "4 GB RAM",
+      "ramGb": 4,
+      "gpu": "NVIDIA GeForce GTX 760",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 11 or 12",
+      "storage": "1 GB available space",
+      "storageGb": 1,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS",
+      "notes": ""
+    },
+    "recommended": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel® Core™ i5-7400",
+      "ram": "8 GB RAM",
+      "ramGb": 8,
+      "gpu": "NVIDIA GeForce GTX 1050",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 11 or 12",
+      "storage": "1 GB available space",
+      "storageGb": 1,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 60 FPS",
+      "notes": ""
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/2551020/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T11:04:34.108Z"
+  },
+  {
+    "id": "steam-4121170",
+    "steamAppId": 4121170,
+    "title": "Fears to Fathom® - Scratch Creek",
+    "slug": "fears-to-fathom-scratch-creek",
+    "description": "After noticing bone-chilling similarities to an episode of Fears to Fathom, Tessa and Marcus decide to share their own experience. Scratch Creek is an exclusively online co-op experience.",
+    "developers": [
+      "Rayll"
+    ],
+    "publishers": [
+      "Rayll Studios"
+    ],
+    "releaseDate": "10 Jun, 2026",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "genre": "Adventure",
+    "tier": "indie-accessible",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/4f5d700dcfadcaec71f4606f81832eaa1ae4e428/ss_4f5d700dcfadcaec71f4606f81832eaa1ae4e428.600x338.jpg?t=1781141362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/7d90288608eecd7842434f7a46b02c5e34e1b896/ss_7d90288608eecd7842434f7a46b02c5e34e1b896.600x338.jpg?t=1781141362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/2ff888ba241d41cef1fed45511083a527985e848/ss_2ff888ba241d41cef1fed45511083a527985e848.600x338.jpg?t=1781141362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/acf4fb00f1c689c93df3d716e08ee8d3390ed7c8/ss_acf4fb00f1c689c93df3d716e08ee8d3390ed7c8.600x338.jpg?t=1781141362"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/4121170/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10 or later 64-bit",
+      "cpu": "Intel Core i5-6600K or AMD Ryzen R5 1600 processor",
+      "ram": "12 GB RAM",
+      "ramGb": 12,
+      "gpu": "NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 12",
+      "storage": "14 GB available space",
+      "storageGb": 14,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS",
+      "notes": ""
+    },
+    "recommended": {
+      "os": "Windows 10 or later 64-bit",
+      "cpu": "Intel Core i5-9600K or AMD Ryzen 5",
+      "ram": "16 GB RAM",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce RTX 2070 or AMD Radeon RX 5700 XT or Intel Arc B570",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 12",
+      "storage": "14 GB available space",
+      "storageGb": 14,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 60 FPS",
+      "notes": ""
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/4121170/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T11:25:18.157Z"
+  },
+  {
+    "id": "igdb-126459",
+    "igdbId": 126459,
+    "steamAppId": null,
+    "title": "Valorant",
+    "slug": "valorant",
+    "description": "Valorant is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork.",
+    "developers": [
+      "Riot Games"
+    ],
+    "publishers": [
+      "Riot Games"
+    ],
+    "releaseDate": "2020-06-02",
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
+    "genre": "Shooter",
+    "tier": "esports-competitive",
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqbp.jpg",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scybc3.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scybc4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scybc5.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_big/scybc6.jpg"
+    ],
+    "storeLinks": [
+      {
+        "name": "Xbox / PC Game Pass",
+        "url": "https://www.xbox.com/en-us/games/store/valorant/9N1NLJK9SKRN"
+      },
+      {
+        "name": "Epic Games Store",
+        "url": "https://www.epicgames.com/store/en-US/p/valorant"
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core 2 Duo E8400 or AMD Athlon 200GE",
+      "ram": "4 GB",
+      "ramGb": 4,
+      "gpu": "Intel HD 4000 or AMD Radeon R5 200",
+      "vram": "1 GB",
+      "vramGb": 1,
+      "directX": "Version 11",
+      "storage": "30 GB",
+      "storageGb": 30,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS"
+    },
+    "recommended": {
+      "os": "Windows 10/11 64-bit",
+      "cpu": "Intel Core i5-9400F or AMD Ryzen 5 2600X",
+      "ram": "8 GB",
+      "ramGb": 8,
+      "gpu": "NVIDIA GeForce GTX 1050 Ti or AMD Radeon R7 370",
+      "vram": "4 GB",
+      "vramGb": 4,
+      "directX": "Version 11",
+      "storage": "30 GB",
+      "storageGb": 30,
+      "storageType": "Fast SSD",
+      "target": "1080p @ 144+ FPS"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Riot Games Official Technical Specifications",
+    "sourceUrl": "https://www.xbox.com/en-us/games/store/valorant/9N1NLJK9SKRN",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T12:12:37.451Z"
+  },
+  {
+    "id": "steam-2215430",
+    "steamAppId": 2215430,
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "slug": "ghost-of-tsushima-director-s-cut",
+    "description": "A storm is coming. Venture into the complete Ghost of Tsushima DIRECTOR’S CUT on PC; forge your own path through this open-world action adventure and uncover its hidden wonders. Brought to you by Sucker Punch Productions, Nixxes Software and PlayStation Studios.",
+    "developers": [
+      "Sucker Punch Productions",
+      "Nixxes Software"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "releaseDate": "16 May, 2024",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "genre": "Action",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg?t=1763409398",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg?t=1763409398",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg?t=1763409398",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_bd593bab36968778b95ed4a1a12ec82d2350d351.600x338.jpg?t=1763409398"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/2215430/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i3-7100 or AMD Ryzen 3 1200",
+      "ram": "8 GB RAM",
+      "ramGb": 8,
+      "gpu": "NVIDIA GeForce GTX 960 or AMD Radeon RX 5500 XT",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 11 or 12",
+      "storage": "75 GB available space",
+      "storageGb": 75,
+      "storageType": "SSD Required",
+      "target": "1080p @ 30 FPS",
+      "notes": "SSD Recommended"
+    },
+    "recommended": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i5-8600 or AMD Ryzen 5 3600",
+      "ram": "16 GB RAM",
+      "ramGb": 16,
+      "gpu": "NVIDIA GeForce RTX 2060 or AMD Radeon RX 5600 XT",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 11 or 12",
+      "storage": "75 GB available space",
+      "storageGb": 75,
+      "storageType": "SSD Required",
+      "target": "1080p @ 60 FPS",
+      "notes": "SSD Required"
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/2215430/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T12:16:13.437Z"
+  },
+  {
+    "id": "steam-359550",
+    "steamAppId": 359550,
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "slug": "tom-clancy-s-rainbow-six-siege",
+    "description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "releaseDate": "1 Dec, 2015",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "genre": "Action",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/555b5051d332c5f6b86f88ba5dfd80404dc91aaa/header_alt_assets_27.jpg?t=1792001976",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/2efed3587d876f560cbf3f25d9a72fbd387b74e6/ss_2efed3587d876f560cbf3f25d9a72fbd387b74e6.600x338.jpg?t=1792001976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ee34a63203916d39dc50d96c14aefc24dc3ff34e/ss_ee34a63203916d39dc50d96c14aefc24dc3ff34e.600x338.jpg?t=1792001976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/00fb4ac1f236cfd2e364ebfecb599a30b72560fe/ss_00fb4ac1f236cfd2e364ebfecb599a30b72560fe.600x338.jpg?t=1792001976",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/0fa7bb7203d3839f29861c4b5e2436cd2694291b/ss_0fa7bb7203d3839f29861c4b5e2436cd2694291b.600x338.jpg?t=1792001976"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/359550/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10, Windows 11 (64-bit versions)",
+      "cpu": "AMD Ryzen 3 3100 / Intel i3-8100",
+      "ram": "8 GB RAM",
+      "ramGb": 8,
+      "gpu": "Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB",
+      "vram": "4 GB",
+      "vramGb": 4,
+      "directX": "Version 12",
+      "storage": "65 GB available space",
+      "storageGb": 65,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS",
+      "notes": "For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology."
+    },
+    "recommended": {
+      "os": "Windows 11 (64-bit versions)",
+      "cpu": "AMD Ryzen5 3600 / Intel i5-10400",
+      "ram": "8 GB RAM",
+      "ramGb": 8,
+      "gpu": "NVIDIA RTX 2060 6GB / AMD RX 6600 8GB",
+      "vram": "6 GB",
+      "vramGb": 6,
+      "directX": "Version 12",
+      "storage": "65 GB available space",
+      "storageGb": 65,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 60 FPS",
+      "notes": "For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology."
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/359550/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T12:17:35.810Z"
+  },
+  {
+    "id": "steam-1056750",
+    "steamAppId": 1056750,
+    "title": "Shera and the Three Treasures",
+    "slug": "shera-and-the-three-treasures",
+    "description": "After the rise of a new Demon Lord, it falls on the chosen hero from an ancient bloodline to stop them. However, due to a curse cast upon him, he must pass the task to his sister, Shera. Now she must gather the Three Treasures, and defeat the Demon Lord.",
+    "developers": [
+      "Asgar Knights"
+    ],
+    "publishers": [
+      "Kagura Games"
+    ],
+    "releaseDate": "13 Dec, 2019",
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "genre": "Indie",
+    "tier": "indie-accessible",
+    "platforms": [
+      "Windows PC"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056750/header.jpg?t=1749385130",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056750/ss_83986a10b2cf1857e56929ce3239ebcecdaf8b76.600x338.jpg?t=1749385130",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056750/ss_4c091bac5a6eb7b9d13fe3ee216fbc5c07dad621.600x338.jpg?t=1749385130",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056750/ss_db5f0105f56d1c474883e68307b61b4531bf65c8.600x338.jpg?t=1749385130",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056750/ss_cbd1975b55fa272b00d2d56ba93469c167aa531c.600x338.jpg?t=1749385130"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/1056750/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core2 Duo or better",
+      "ram": "4 GB RAM",
+      "ramGb": 4,
+      "gpu": "DirectX 9/OpenGL 4.1 capable GPU",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 9.0",
+      "storage": "1 GB available space",
+      "storageGb": 1,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 30 FPS",
+      "notes": "1280x768 or better Display.  Lag may occur from loading menus or maps.  Turn off other programs before running the game."
+    },
+    "recommended": {
+      "os": "Windows 10 64-bit",
+      "cpu": "2+ GHz Processor",
+      "ram": "4 GB RAM",
+      "ramGb": 4,
+      "gpu": "OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)",
+      "vram": "2 GB",
+      "vramGb": 2,
+      "directX": "Version 9.0",
+      "storage": "2 GB available space",
+      "storageGb": 2,
+      "storageType": "SSD Recommended",
+      "target": "1080p @ 60 FPS",
+      "notes": "1280x768 or better Display.  Lag may occur from loading menus or maps.  Turn off other programs before running the game."
+    },
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/1056750/",
+    "lastVerified": "2026-10-17",
+    "lastSynchronized": "2026-10-17T13:08:21.317Z"
+  },
+  {
+    "id": "steam-570",
+    "steamAppId": "570",
+    "title": "Dota 2",
+    "slug": "dota-2",
+    "description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "releaseDate": "9 Jul, 2013",
+    "genres": [
+      "Action",
+      "Strategy",
+      "Free To Play"
+    ],
+    "genre": "Action",
+    "tier": "modern-moderate",
+    "platforms": [
+      "Windows PC",
+      "macOS",
+      "Linux / SteamOS"
+    ],
+    "coverImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.600x338.jpg?t=1791407503",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.600x338.jpg?t=1791407503",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.600x338.jpg?t=1791407503",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.600x338.jpg?t=1791407503"
+    ],
+    "storeLinks": [
+      {
+        "name": "Steam Store",
+        "url": "https://store.steampowered.com/app/570/",
+        "official": true
+      }
+    ],
+    "minimum": {
+      "cpu": "Dual core from Intel or AMD at 2.8 GHz",
+      "ram": "4 GB RAM",
+      "ramGb": 4,
+      "gpu": "NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600",
+      "directX": "Version 11",
+      "storage": "60 GB available space",
+      "storageGb": 60
+    },
+    "recommended": null,
+    "requirementsVerification": "Official",
+    "requirementsSource": "Steam Official Publisher Store Page",
+    "sourceUrl": "https://store.steampowered.com/app/570/",
+    "lastVerified": "2026-10-17",
+    "requirementsFetchedAt": "2026-10-17T13:51:50.242Z",
+    "lastSynchronized": "2026-10-17T13:51:50.242Z"
+  }
+]
